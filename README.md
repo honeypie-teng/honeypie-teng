@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @honeypie-teng
 - 👀 I’m interested in web developing and still figuring out.
-- 🌱 I’m currently learning on web developing
-- 💞️ I’m taking my bachelor of degree in Information Technology in Information System.
+- 💞️ Currently taking my bachelor of degree in Information Technology in Information System.
 - 📫 honeypieteng01@gmail.com
 
 <!---
